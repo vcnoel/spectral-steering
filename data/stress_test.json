@@ -1,0 +1,17 @@
+[
+  {
+    "type": "healthy_baseline",
+    "prompt": "The sun rises in the east and sets in the west. The birds sing in the morning light. The trees sway gently in the breeze.",
+    "expected_failure": "None. Fiedler should remain high (>0.5)."
+  },
+  {
+    "type": "logic_trap_base",
+    "prompt": "All wugs are cute. This animal is not cute. Therefore, this animal is definitely not a",
+    "expected_failure": "Failure to conclude 'wug' or loss of coherence."
+  },
+  {
+    "type": "nested_logic_chain",
+    "prompt": "If P implies Q, and Q implies R, and R implies S. P is true. However, S is false. This creates a contradiction because",
+    "expected_failure": "Hallucination of new rules or failure to spot valid contradiction."
+  }
+]

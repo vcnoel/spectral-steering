@@ -1,0 +1,42 @@
+{
+  "baseline": {
+    "math": 0.62,
+    "sycophancy": 0.32
+  },
+  "Kick_L27_-0.2": {
+    "math": 0.62,
+    "sycophancy": 0.18
+  },
+  "Kick_L27_-0.4": {
+    "math": 0.64,
+    "sycophancy": 0.18
+  },
+  "Kick_L27_-0.6": {
+    "math": 0.6,
+    "sycophancy": 0.2
+  },
+  "Kick_L28_-0.2": {
+    "math": 0.68,
+    "sycophancy": 0.16
+  },
+  "Kick_L28_-0.4": {
+    "math": 0.66,
+    "sycophancy": 0.16
+  },
+  "Kick_L28_-0.6": {
+    "math": 0.6,
+    "sycophancy": 0.2
+  },
+  "Kick_L29_-0.2": {
+    "math": 0.7,
+    "sycophancy": 0.08
+  },
+  "Kick_L29_-0.4": {
+    "math": 0.6,
+    "sycophancy": 0.2
+  },
+  "Kick_L29_-0.6": {
+    "math": 0.58,
+    "sycophancy": 0.22
+  }
+}

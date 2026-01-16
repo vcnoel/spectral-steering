@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "neg_0",
+    "type": "negation_trap",
+    "prompt": "All snarks are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_1",
+    "type": "negation_trap",
+    "prompt": "All mips are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_2",
+    "type": "negation_trap",
+    "prompt": "All tarns are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_3",
+    "type": "negation_trap",
+    "prompt": "All glims are red. This object is not red. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_4",
+    "type": "negation_trap",
+    "prompt": "All bops are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_5",
+    "type": "negation_trap",
+    "prompt": "All zorks are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_6",
+    "type": "negation_trap",
+    "prompt": "All neeps are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_7",
+    "type": "negation_trap",
+    "prompt": "All blips are sharp. This object is not sharp. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_8",
+    "type": "negation_trap",
+    "prompt": "All kikis are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_9",
+    "type": "negation_trap",
+    "prompt": "All glorps are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_10",
+    "type": "negation_trap",
+    "prompt": "All warps are light. This object is not light. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_11",
+    "type": "negation_trap",
+    "prompt": "All blips are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_12",
+    "type": "negation_trap",
+    "prompt": "All glims are sharp. This object is not sharp. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_13",
+    "type": "negation_trap",
+    "prompt": "All boubas are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_14",
+    "type": "negation_trap",
+    "prompt": "All bops are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_15",
+    "type": "negation_trap",
+    "prompt": "All neeps are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_16",
+    "type": "negation_trap",
+    "prompt": "All tarns are red. This object is not red. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_17",
+    "type": "negation_trap",
+    "prompt": "All kikis are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_18",
+    "type": "negation_trap",
+    "prompt": "All boubas are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_19",
+    "type": "negation_trap",
+    "prompt": "All zorks are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_20",
+    "type": "negation_trap",
+    "prompt": "All glims are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_21",
+    "type": "negation_trap",
+    "prompt": "All neeps are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_22",
+    "type": "negation_trap",
+    "prompt": "All blips are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_23",
+    "type": "negation_trap",
+    "prompt": "All thabo are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_24",
+    "type": "negation_trap",
+    "prompt": "All neeps are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_25",
+    "type": "negation_trap",
+    "prompt": "All glims are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_26",
+    "type": "negation_trap",
+    "prompt": "All mips are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_27",
+    "type": "negation_trap",
+    "prompt": "All bops are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_28",
+    "type": "negation_trap",
+    "prompt": "All plinks are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_29",
+    "type": "negation_trap",
+    "prompt": "All plinks are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_30",
+    "type": "negation_trap",
+    "prompt": "All thabo are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_31",
+    "type": "negation_trap",
+    "prompt": "All glims are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_32",
+    "type": "negation_trap",
+    "prompt": "All kikis are rough. This object is not rough. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_33",
+    "type": "negation_trap",
+    "prompt": "All quexes are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "quex"
+  },
+  {
+    "id": "neg_34",
+    "type": "negation_trap",
+    "prompt": "All zorks are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_35",
+    "type": "negation_trap",
+    "prompt": "All tarns are green. This object is not green. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_36",
+    "type": "negation_trap",
+    "prompt": "All quexes are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "quex"
+  },
+  {
+    "id": "neg_37",
+    "type": "negation_trap",
+    "prompt": "All thabo are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_38",
+    "type": "negation_trap",
+    "prompt": "All snarks are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_39",
+    "type": "negation_trap",
+    "prompt": "All vorks are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "vork"
+  },
+  {
+    "id": "neg_40",
+    "type": "negation_trap",
+    "prompt": "All vorks are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "vork"
+  },
+  {
+    "id": "neg_41",
+    "type": "negation_trap",
+    "prompt": "All boubas are light. This object is not light. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_42",
+    "type": "negation_trap",
+    "prompt": "All crags are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_43",
+    "type": "negation_trap",
+    "prompt": "All crags are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_44",
+    "type": "negation_trap",
+    "prompt": "All glorps are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_45",
+    "type": "negation_trap",
+    "prompt": "All feps are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_46",
+    "type": "negation_trap",
+    "prompt": "All tarns are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_47",
+    "type": "negation_trap",
+    "prompt": "All kikis are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_48",
+    "type": "negation_trap",
+    "prompt": "All bops are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_49",
+    "type": "negation_trap",
+    "prompt": "All mips are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_50",
+    "type": "negation_trap",
+    "prompt": "All crags are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_51",
+    "type": "negation_trap",
+    "prompt": "All zorks are red. This object is not red. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_52",
+    "type": "negation_trap",
+    "prompt": "All warps are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_53",
+    "type": "negation_trap",
+    "prompt": "All neeps are rough. This object is not rough. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_54",
+    "type": "negation_trap",
+    "prompt": "All blips are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_55",
+    "type": "negation_trap",
+    "prompt": "All vorks are sharp. This object is not sharp. Therefore, this object is definitely not a",
+    "target_completion": "vork"
+  },
+  {
+    "id": "neg_56",
+    "type": "negation_trap",
+    "prompt": "All snarks are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_57",
+    "type": "negation_trap",
+    "prompt": "All feps are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_58",
+    "type": "negation_trap",
+    "prompt": "All bops are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_59",
+    "type": "negation_trap",
+    "prompt": "All crags are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_60",
+    "type": "negation_trap",
+    "prompt": "All kikis are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_61",
+    "type": "negation_trap",
+    "prompt": "All plinks are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_62",
+    "type": "negation_trap",
+    "prompt": "All blips are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_63",
+    "type": "negation_trap",
+    "prompt": "All glorps are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_64",
+    "type": "negation_trap",
+    "prompt": "All boubas are green. This object is not green. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_65",
+    "type": "negation_trap",
+    "prompt": "All tarns are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_66",
+    "type": "negation_trap",
+    "prompt": "All bops are red. This object is not red. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_67",
+    "type": "negation_trap",
+    "prompt": "All zorks are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_68",
+    "type": "negation_trap",
+    "prompt": "All boubas are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_69",
+    "type": "negation_trap",
+    "prompt": "All feps are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_70",
+    "type": "negation_trap",
+    "prompt": "All thabo are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_71",
+    "type": "negation_trap",
+    "prompt": "All neeps are green. This object is not green. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_72",
+    "type": "negation_trap",
+    "prompt": "All warps are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_73",
+    "type": "negation_trap",
+    "prompt": "All blips are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_74",
+    "type": "negation_trap",
+    "prompt": "All glims are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_75",
+    "type": "negation_trap",
+    "prompt": "All crags are green. This object is not green. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_76",
+    "type": "negation_trap",
+    "prompt": "All bops are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "neg_77",
+    "type": "negation_trap",
+    "prompt": "All snarks are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_78",
+    "type": "negation_trap",
+    "prompt": "All snarks are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_79",
+    "type": "negation_trap",
+    "prompt": "All glims are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_80",
+    "type": "negation_trap",
+    "prompt": "All mips are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_81",
+    "type": "negation_trap",
+    "prompt": "All thabo are sharp. This object is not sharp. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_82",
+    "type": "negation_trap",
+    "prompt": "All mips are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_83",
+    "type": "negation_trap",
+    "prompt": "All daxes are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "dax"
+  },
+  {
+    "id": "neg_84",
+    "type": "negation_trap",
+    "prompt": "All glorps are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_85",
+    "type": "negation_trap",
+    "prompt": "All neeps are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_86",
+    "type": "negation_trap",
+    "prompt": "All snarks are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_87",
+    "type": "negation_trap",
+    "prompt": "All neeps are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_88",
+    "type": "negation_trap",
+    "prompt": "All thabo are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_89",
+    "type": "negation_trap",
+    "prompt": "All quexes are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "quex"
+  },
+  {
+    "id": "neg_90",
+    "type": "negation_trap",
+    "prompt": "All blips are red. This object is not red. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_91",
+    "type": "negation_trap",
+    "prompt": "All snarks are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_92",
+    "type": "negation_trap",
+    "prompt": "All glims are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_93",
+    "type": "negation_trap",
+    "prompt": "All warps are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_94",
+    "type": "negation_trap",
+    "prompt": "All plinks are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_95",
+    "type": "negation_trap",
+    "prompt": "All thabo are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_96",
+    "type": "negation_trap",
+    "prompt": "All feps are rough. This object is not rough. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_97",
+    "type": "negation_trap",
+    "prompt": "All wugs are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "wug"
+  },
+  {
+    "id": "neg_98",
+    "type": "negation_trap",
+    "prompt": "All feps are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_99",
+    "type": "negation_trap",
+    "prompt": "All zorks are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_100",
+    "type": "negation_trap",
+    "prompt": "All snarks are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_101",
+    "type": "negation_trap",
+    "prompt": "All daxes are dull. This object is not dull. Therefore, this object is definitely not a",
+    "target_completion": "dax"
+  },
+  {
+    "id": "neg_102",
+    "type": "negation_trap",
+    "prompt": "All neeps are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_103",
+    "type": "negation_trap",
+    "prompt": "All tarns are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_104",
+    "type": "negation_trap",
+    "prompt": "All boubas are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "bouba"
+  },
+  {
+    "id": "neg_105",
+    "type": "negation_trap",
+    "prompt": "All plinks are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_106",
+    "type": "negation_trap",
+    "prompt": "All zorks are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_107",
+    "type": "negation_trap",
+    "prompt": "All wugs are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "wug"
+  },
+  {
+    "id": "neg_108",
+    "type": "negation_trap",
+    "prompt": "All crags are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_109",
+    "type": "negation_trap",
+    "prompt": "All mips are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_110",
+    "type": "negation_trap",
+    "prompt": "All thabo are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_111",
+    "type": "negation_trap",
+    "prompt": "All mips are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "mip"
+  },
+  {
+    "id": "neg_112",
+    "type": "negation_trap",
+    "prompt": "All plinks are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_113",
+    "type": "negation_trap",
+    "prompt": "All neeps are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_114",
+    "type": "negation_trap",
+    "prompt": "All kikis are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_115",
+    "type": "negation_trap",
+    "prompt": "All neeps are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_116",
+    "type": "negation_trap",
+    "prompt": "All zorks are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_117",
+    "type": "negation_trap",
+    "prompt": "All warps are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_118",
+    "type": "negation_trap",
+    "prompt": "All warps are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_119",
+    "type": "negation_trap",
+    "prompt": "All plinks are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_120",
+    "type": "negation_trap",
+    "prompt": "All neeps are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "neep"
+  },
+  {
+    "id": "neg_121",
+    "type": "negation_trap",
+    "prompt": "All glorps are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_122",
+    "type": "negation_trap",
+    "prompt": "All zorks are green. This object is not green. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_123",
+    "type": "negation_trap",
+    "prompt": "All tarns are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_124",
+    "type": "negation_trap",
+    "prompt": "All glorps are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "glorp"
+  },
+  {
+    "id": "neg_125",
+    "type": "negation_trap",
+    "prompt": "All wugs are cute. This object is not cute. Therefore, this object is definitely not a",
+    "target_completion": "wug"
+  },
+  {
+    "id": "neg_126",
+    "type": "negation_trap",
+    "prompt": "All glims are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_127",
+    "type": "negation_trap",
+    "prompt": "All crags are blue. This object is not blue. Therefore, this object is definitely not a",
+    "target_completion": "crag"
+  },
+  {
+    "id": "neg_128",
+    "type": "negation_trap",
+    "prompt": "All daxes are loud. This object is not loud. Therefore, this object is definitely not a",
+    "target_completion": "dax"
+  },
+  {
+    "id": "neg_129",
+    "type": "negation_trap",
+    "prompt": "All wugs are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "wug"
+  },
+  {
+    "id": "neg_130",
+    "type": "negation_trap",
+    "prompt": "All thabo are heavy. This object is not heavy. Therefore, this object is definitely not a",
+    "target_completion": "thab"
+  },
+  {
+    "id": "neg_131",
+    "type": "negation_trap",
+    "prompt": "All tarns are fast. This object is not fast. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_132",
+    "type": "negation_trap",
+    "prompt": "All feps are sharp. This object is not sharp. Therefore, this object is definitely not a",
+    "target_completion": "fep"
+  },
+  {
+    "id": "neg_133",
+    "type": "negation_trap",
+    "prompt": "All glims are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_134",
+    "type": "negation_trap",
+    "prompt": "All blips are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_135",
+    "type": "negation_trap",
+    "prompt": "All kikis are smooth. This object is not smooth. Therefore, this object is definitely not a",
+    "target_completion": "kiki"
+  },
+  {
+    "id": "neg_136",
+    "type": "negation_trap",
+    "prompt": "All warps are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "warp"
+  },
+  {
+    "id": "neg_137",
+    "type": "negation_trap",
+    "prompt": "All snarks are rough. This object is not rough. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_138",
+    "type": "negation_trap",
+    "prompt": "All quexes are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "quex"
+  },
+  {
+    "id": "neg_139",
+    "type": "negation_trap",
+    "prompt": "All tarns are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_140",
+    "type": "negation_trap",
+    "prompt": "All blips are slow. This object is not slow. Therefore, this object is definitely not a",
+    "target_completion": "blip"
+  },
+  {
+    "id": "neg_141",
+    "type": "negation_trap",
+    "prompt": "All tarns are bumpy. This object is not bumpy. Therefore, this object is definitely not a",
+    "target_completion": "tarn"
+  },
+  {
+    "id": "neg_142",
+    "type": "negation_trap",
+    "prompt": "All daxes are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "dax"
+  },
+  {
+    "id": "neg_143",
+    "type": "negation_trap",
+    "prompt": "All zorks are light. This object is not light. Therefore, this object is definitely not a",
+    "target_completion": "zork"
+  },
+  {
+    "id": "neg_144",
+    "type": "negation_trap",
+    "prompt": "All glims are soft. This object is not soft. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_145",
+    "type": "negation_trap",
+    "prompt": "All snarks are sticky. This object is not sticky. Therefore, this object is definitely not a",
+    "target_completion": "snark"
+  },
+  {
+    "id": "neg_146",
+    "type": "negation_trap",
+    "prompt": "All glims are hard. This object is not hard. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_147",
+    "type": "negation_trap",
+    "prompt": "All plinks are quiet. This object is not quiet. Therefore, this object is definitely not a",
+    "target_completion": "plink"
+  },
+  {
+    "id": "neg_148",
+    "type": "negation_trap",
+    "prompt": "All glims are dark. This object is not dark. Therefore, this object is definitely not a",
+    "target_completion": "glim"
+  },
+  {
+    "id": "neg_149",
+    "type": "negation_trap",
+    "prompt": "All bops are bright. This object is not bright. Therefore, this object is definitely not a",
+    "target_completion": "bop"
+  },
+  {
+    "id": "chain_150",
+    "type": "transitive_chain",
+    "prompt": "If Y implies T, and T implies S, and S implies W. Y is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_151",
+    "type": "transitive_chain",
+    "prompt": "If W implies Y, and Y implies S, and S implies V. W is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_152",
+    "type": "transitive_chain",
+    "prompt": "If T implies X, and X implies Q, and Q implies Y. T is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_153",
+    "type": "transitive_chain",
+    "prompt": "If Q implies Y, and Y implies R, and R implies V. Q is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_154",
+    "type": "transitive_chain",
+    "prompt": "If Q implies T, and T implies S, and S implies U. Q is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_155",
+    "type": "transitive_chain",
+    "prompt": "If T implies W, and W implies P, and P implies R. T is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_156",
+    "type": "transitive_chain",
+    "prompt": "If U implies W, and W implies R, and R implies P. U is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_157",
+    "type": "transitive_chain",
+    "prompt": "If S implies W, and W implies U, and U implies T. S is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_158",
+    "type": "transitive_chain",
+    "prompt": "If X implies T, and T implies W, and W implies V. X is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_159",
+    "type": "transitive_chain",
+    "prompt": "If V implies Y, and Y implies R, and R implies Q. V is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_160",
+    "type": "transitive_chain",
+    "prompt": "If R implies X, and X implies V, and V implies S. R is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_161",
+    "type": "transitive_chain",
+    "prompt": "If V implies T, and T implies W, and W implies S. V is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_162",
+    "type": "transitive_chain",
+    "prompt": "If P implies T, and T implies Q, and Q implies W. P is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_163",
+    "type": "transitive_chain",
+    "prompt": "If W implies T, and T implies X, and X implies Y. W is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_164",
+    "type": "transitive_chain",
+    "prompt": "If P implies X, and X implies W, and W implies U. P is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_165",
+    "type": "transitive_chain",
+    "prompt": "If T implies S, and S implies Y, and Y implies U. T is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_166",
+    "type": "transitive_chain",
+    "prompt": "If S implies V, and V implies R, and R implies W. S is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_167",
+    "type": "transitive_chain",
+    "prompt": "If V implies T, and T implies X, and X implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_168",
+    "type": "transitive_chain",
+    "prompt": "If Q implies U, and U implies V, and V implies W. Q is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_169",
+    "type": "transitive_chain",
+    "prompt": "If X implies T, and T implies U, and U implies Y. X is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_170",
+    "type": "transitive_chain",
+    "prompt": "If Y implies Q, and Q implies R, and R implies U. Y is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_171",
+    "type": "transitive_chain",
+    "prompt": "If U implies X, and X implies W, and W implies S. U is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_172",
+    "type": "transitive_chain",
+    "prompt": "If Q implies X, and X implies R, and R implies V. Q is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_173",
+    "type": "transitive_chain",
+    "prompt": "If W implies V, and V implies X, and X implies Y. W is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_174",
+    "type": "transitive_chain",
+    "prompt": "If Y implies X, and X implies S, and S implies U. Y is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_175",
+    "type": "transitive_chain",
+    "prompt": "If Q implies W, and W implies X, and X implies V. Q is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_176",
+    "type": "transitive_chain",
+    "prompt": "If R implies P, and P implies W, and W implies V. R is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_177",
+    "type": "transitive_chain",
+    "prompt": "If R implies W, and W implies Q, and Q implies S. R is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_178",
+    "type": "transitive_chain",
+    "prompt": "If V implies Y, and Y implies X, and X implies T. V is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_179",
+    "type": "transitive_chain",
+    "prompt": "If P implies S, and S implies T, and T implies W. P is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_180",
+    "type": "transitive_chain",
+    "prompt": "If P implies U, and U implies S, and S implies V. P is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_181",
+    "type": "transitive_chain",
+    "prompt": "If X implies P, and P implies S, and S implies Y. X is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_182",
+    "type": "transitive_chain",
+    "prompt": "If Y implies W, and W implies R, and R implies T. Y is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_183",
+    "type": "transitive_chain",
+    "prompt": "If T implies W, and W implies S, and S implies V. T is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_184",
+    "type": "transitive_chain",
+    "prompt": "If X implies R, and R implies P, and P implies T. X is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_185",
+    "type": "transitive_chain",
+    "prompt": "If T implies V, and V implies Y, and Y implies X. T is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_186",
+    "type": "transitive_chain",
+    "prompt": "If R implies T, and T implies X, and X implies W. R is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_187",
+    "type": "transitive_chain",
+    "prompt": "If Y implies X, and X implies U, and U implies R. Y is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_188",
+    "type": "transitive_chain",
+    "prompt": "If R implies W, and W implies P, and P implies Y. R is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_189",
+    "type": "transitive_chain",
+    "prompt": "If V implies P, and P implies R, and R implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_190",
+    "type": "transitive_chain",
+    "prompt": "If Q implies X, and X implies W, and W implies U. Q is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_191",
+    "type": "transitive_chain",
+    "prompt": "If S implies P, and P implies W, and W implies Q. S is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_192",
+    "type": "transitive_chain",
+    "prompt": "If W implies T, and T implies R, and R implies U. W is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_193",
+    "type": "transitive_chain",
+    "prompt": "If U implies S, and S implies X, and X implies W. U is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_194",
+    "type": "transitive_chain",
+    "prompt": "If X implies U, and U implies P, and P implies T. X is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_195",
+    "type": "transitive_chain",
+    "prompt": "If W implies X, and X implies S, and S implies Q. W is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_196",
+    "type": "transitive_chain",
+    "prompt": "If X implies Q, and Q implies T, and T implies U. X is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_197",
+    "type": "transitive_chain",
+    "prompt": "If Q implies Y, and Y implies S, and S implies T. Q is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_198",
+    "type": "transitive_chain",
+    "prompt": "If Y implies P, and P implies V, and V implies S. Y is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_199",
+    "type": "transitive_chain",
+    "prompt": "If Q implies S, and S implies U, and U implies V. Q is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_200",
+    "type": "transitive_chain",
+    "prompt": "If P implies S, and S implies X, and X implies V. P is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_201",
+    "type": "transitive_chain",
+    "prompt": "If T implies Y, and Y implies U, and U implies W. T is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_202",
+    "type": "transitive_chain",
+    "prompt": "If W implies Y, and Y implies U, and U implies R. W is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_203",
+    "type": "transitive_chain",
+    "prompt": "If W implies X, and X implies U, and U implies V. W is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_204",
+    "type": "transitive_chain",
+    "prompt": "If R implies X, and X implies Q, and Q implies W. R is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_205",
+    "type": "transitive_chain",
+    "prompt": "If V implies W, and W implies Q, and Q implies S. V is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_206",
+    "type": "transitive_chain",
+    "prompt": "If W implies T, and T implies Y, and Y implies R. W is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_207",
+    "type": "transitive_chain",
+    "prompt": "If X implies Q, and Q implies R, and R implies V. X is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_208",
+    "type": "transitive_chain",
+    "prompt": "If P implies U, and U implies Y, and Y implies S. P is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_209",
+    "type": "transitive_chain",
+    "prompt": "If T implies Y, and Y implies V, and V implies R. T is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_210",
+    "type": "transitive_chain",
+    "prompt": "If Q implies W, and W implies R, and R implies V. Q is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_211",
+    "type": "transitive_chain",
+    "prompt": "If X implies S, and S implies T, and T implies Q. X is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_212",
+    "type": "transitive_chain",
+    "prompt": "If U implies V, and V implies X, and X implies P. U is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_213",
+    "type": "transitive_chain",
+    "prompt": "If T implies S, and S implies Q, and Q implies Y. T is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_214",
+    "type": "transitive_chain",
+    "prompt": "If W implies X, and X implies V, and V implies R. W is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_215",
+    "type": "transitive_chain",
+    "prompt": "If P implies S, and S implies Q, and Q implies X. P is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_216",
+    "type": "transitive_chain",
+    "prompt": "If T implies U, and U implies X, and X implies W. T is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_217",
+    "type": "transitive_chain",
+    "prompt": "If U implies S, and S implies W, and W implies T. U is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_218",
+    "type": "transitive_chain",
+    "prompt": "If X implies W, and W implies V, and V implies T. X is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_219",
+    "type": "transitive_chain",
+    "prompt": "If U implies Q, and Q implies V, and V implies S. U is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_220",
+    "type": "transitive_chain",
+    "prompt": "If Y implies P, and P implies Q, and Q implies T. Y is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_221",
+    "type": "transitive_chain",
+    "prompt": "If V implies R, and R implies Q, and Q implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_222",
+    "type": "transitive_chain",
+    "prompt": "If R implies T, and T implies W, and W implies Q. R is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_223",
+    "type": "transitive_chain",
+    "prompt": "If W implies Q, and Q implies V, and V implies Y. W is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_224",
+    "type": "transitive_chain",
+    "prompt": "If R implies X, and X implies U, and U implies Q. R is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_225",
+    "type": "transitive_chain",
+    "prompt": "If V implies Q, and Q implies R, and R implies X. V is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_226",
+    "type": "transitive_chain",
+    "prompt": "If V implies Q, and Q implies X, and X implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_227",
+    "type": "transitive_chain",
+    "prompt": "If T implies U, and U implies P, and P implies X. T is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_228",
+    "type": "transitive_chain",
+    "prompt": "If T implies R, and R implies Y, and Y implies Q. T is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_229",
+    "type": "transitive_chain",
+    "prompt": "If X implies U, and U implies W, and W implies T. X is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_230",
+    "type": "transitive_chain",
+    "prompt": "If Q implies X, and X implies U, and U implies Y. Q is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_231",
+    "type": "transitive_chain",
+    "prompt": "If X implies S, and S implies Y, and Y implies T. X is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_232",
+    "type": "transitive_chain",
+    "prompt": "If Q implies V, and V implies U, and U implies P. Q is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_233",
+    "type": "transitive_chain",
+    "prompt": "If X implies V, and V implies Y, and Y implies P. X is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_234",
+    "type": "transitive_chain",
+    "prompt": "If Y implies V, and V implies X, and X implies T. Y is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_235",
+    "type": "transitive_chain",
+    "prompt": "If Q implies W, and W implies T, and T implies P. Q is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_236",
+    "type": "transitive_chain",
+    "prompt": "If X implies Q, and Q implies Y, and Y implies R. X is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_237",
+    "type": "transitive_chain",
+    "prompt": "If X implies W, and W implies U, and U implies R. X is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_238",
+    "type": "transitive_chain",
+    "prompt": "If T implies X, and X implies Y, and Y implies Q. T is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_239",
+    "type": "transitive_chain",
+    "prompt": "If Y implies U, and U implies Q, and Q implies R. Y is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_240",
+    "type": "transitive_chain",
+    "prompt": "If R implies Q, and Q implies U, and U implies Y. R is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_241",
+    "type": "transitive_chain",
+    "prompt": "If W implies V, and V implies R, and R implies S. W is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_242",
+    "type": "transitive_chain",
+    "prompt": "If U implies W, and W implies R, and R implies X. U is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_243",
+    "type": "transitive_chain",
+    "prompt": "If R implies W, and W implies T, and T implies U. R is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_244",
+    "type": "transitive_chain",
+    "prompt": "If V implies Y, and Y implies S, and S implies Q. V is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_245",
+    "type": "transitive_chain",
+    "prompt": "If W implies Y, and Y implies P, and P implies T. W is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_246",
+    "type": "transitive_chain",
+    "prompt": "If S implies Y, and Y implies V, and V implies R. S is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_247",
+    "type": "transitive_chain",
+    "prompt": "If R implies X, and X implies V, and V implies P. R is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_248",
+    "type": "transitive_chain",
+    "prompt": "If V implies W, and W implies Y, and Y implies X. V is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_249",
+    "type": "transitive_chain",
+    "prompt": "If P implies R, and R implies S, and S implies T. P is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_250",
+    "type": "transitive_chain",
+    "prompt": "If Q implies V, and V implies P, and P implies R. Q is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_251",
+    "type": "transitive_chain",
+    "prompt": "If T implies W, and W implies V, and V implies Q. T is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_252",
+    "type": "transitive_chain",
+    "prompt": "If V implies Y, and Y implies P, and P implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_253",
+    "type": "transitive_chain",
+    "prompt": "If U implies W, and W implies S, and S implies R. U is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_254",
+    "type": "transitive_chain",
+    "prompt": "If V implies U, and U implies S, and S implies X. V is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_255",
+    "type": "transitive_chain",
+    "prompt": "If V implies T, and T implies S, and S implies W. V is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_256",
+    "type": "transitive_chain",
+    "prompt": "If T implies W, and W implies S, and S implies P. T is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_257",
+    "type": "transitive_chain",
+    "prompt": "If V implies P, and P implies Q, and Q implies Y. V is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_258",
+    "type": "transitive_chain",
+    "prompt": "If W implies T, and T implies U, and U implies Y. W is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_259",
+    "type": "transitive_chain",
+    "prompt": "If S implies T, and T implies Y, and Y implies V. S is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_260",
+    "type": "transitive_chain",
+    "prompt": "If P implies X, and X implies T, and T implies U. P is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_261",
+    "type": "transitive_chain",
+    "prompt": "If Y implies U, and U implies T, and T implies W. Y is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_262",
+    "type": "transitive_chain",
+    "prompt": "If S implies X, and X implies Y, and Y implies U. S is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_263",
+    "type": "transitive_chain",
+    "prompt": "If U implies P, and P implies Y, and Y implies S. U is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_264",
+    "type": "transitive_chain",
+    "prompt": "If S implies V, and V implies X, and X implies R. S is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_265",
+    "type": "transitive_chain",
+    "prompt": "If X implies Q, and Q implies S, and S implies Y. X is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_266",
+    "type": "transitive_chain",
+    "prompt": "If T implies Q, and Q implies X, and X implies W. T is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_267",
+    "type": "transitive_chain",
+    "prompt": "If Y implies T, and T implies S, and S implies R. Y is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_268",
+    "type": "transitive_chain",
+    "prompt": "If S implies W, and W implies Q, and Q implies P. S is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_269",
+    "type": "transitive_chain",
+    "prompt": "If R implies Q, and Q implies X, and X implies V. R is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_270",
+    "type": "transitive_chain",
+    "prompt": "If T implies X, and X implies S, and S implies V. T is true. However, V is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_271",
+    "type": "transitive_chain",
+    "prompt": "If V implies S, and S implies W, and W implies Y. V is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_272",
+    "type": "transitive_chain",
+    "prompt": "If T implies Y, and Y implies R, and R implies X. T is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_273",
+    "type": "transitive_chain",
+    "prompt": "If V implies R, and R implies W, and W implies T. V is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_274",
+    "type": "transitive_chain",
+    "prompt": "If R implies S, and S implies X, and X implies W. R is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_275",
+    "type": "transitive_chain",
+    "prompt": "If P implies Q, and Q implies R, and R implies X. P is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_276",
+    "type": "transitive_chain",
+    "prompt": "If Y implies T, and T implies U, and U implies Q. Y is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_277",
+    "type": "transitive_chain",
+    "prompt": "If S implies Y, and Y implies R, and R implies Q. S is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_278",
+    "type": "transitive_chain",
+    "prompt": "If V implies Q, and Q implies T, and T implies X. V is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_279",
+    "type": "transitive_chain",
+    "prompt": "If Y implies V, and V implies P, and P implies S. Y is true. However, S is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_280",
+    "type": "transitive_chain",
+    "prompt": "If R implies U, and U implies Q, and Q implies P. R is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_281",
+    "type": "transitive_chain",
+    "prompt": "If P implies W, and W implies V, and V implies X. P is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_282",
+    "type": "transitive_chain",
+    "prompt": "If X implies V, and V implies T, and T implies R. X is true. However, R is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_283",
+    "type": "transitive_chain",
+    "prompt": "If T implies S, and S implies P, and P implies X. T is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_284",
+    "type": "transitive_chain",
+    "prompt": "If P implies Q, and Q implies S, and S implies U. P is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_285",
+    "type": "transitive_chain",
+    "prompt": "If U implies W, and W implies R, and R implies T. U is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_286",
+    "type": "transitive_chain",
+    "prompt": "If Q implies X, and X implies Y, and Y implies W. Q is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_287",
+    "type": "transitive_chain",
+    "prompt": "If Y implies W, and W implies V, and V implies Q. Y is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_288",
+    "type": "transitive_chain",
+    "prompt": "If Y implies V, and V implies S, and S implies X. Y is true. However, X is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_289",
+    "type": "transitive_chain",
+    "prompt": "If Y implies R, and R implies V, and V implies Q. Y is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_290",
+    "type": "transitive_chain",
+    "prompt": "If S implies R, and R implies W, and W implies T. S is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_291",
+    "type": "transitive_chain",
+    "prompt": "If Q implies S, and S implies V, and V implies U. Q is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_292",
+    "type": "transitive_chain",
+    "prompt": "If T implies U, and U implies V, and V implies W. T is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_293",
+    "type": "transitive_chain",
+    "prompt": "If Q implies P, and P implies R, and R implies U. Q is true. However, U is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_294",
+    "type": "transitive_chain",
+    "prompt": "If R implies T, and T implies X, and X implies P. R is true. However, P is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_295",
+    "type": "transitive_chain",
+    "prompt": "If Y implies X, and X implies U, and U implies Q. Y is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_296",
+    "type": "transitive_chain",
+    "prompt": "If T implies X, and X implies V, and V implies W. T is true. However, W is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_297",
+    "type": "transitive_chain",
+    "prompt": "If W implies P, and P implies Q, and Q implies Y. W is true. However, Y is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_298",
+    "type": "transitive_chain",
+    "prompt": "If W implies Q, and Q implies X, and X implies T. W is true. However, T is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  },
+  {
+    "id": "chain_299",
+    "type": "transitive_chain",
+    "prompt": "If W implies V, and V implies T, and T implies Q. W is true. However, Q is false. This creates a contradiction because",
+    "target_completion": "contradiction"
+  }
+]

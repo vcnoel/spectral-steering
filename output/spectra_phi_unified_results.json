@@ -1,0 +1,32 @@
+{
+  "baseline": {
+    "math": 0.67,
+    "sycophancy": 0.3
+  },
+  "unified": {
+    "math": 0.68,
+    "sycophancy": 0.22
+  },
+  "config": {
+    "L15": {
+      "layers": [
+        15
+      ],
+      "alpha": -0.2
+    },
+    "L16_24": {
+      "layers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "alpha": 0.3
+    }
+  }
+}

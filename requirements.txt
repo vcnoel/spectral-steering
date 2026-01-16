@@ -1,0 +1,9 @@
+spectral-trust
+torch
+transformers
+accelerate
+statsmodels
+scipy
+numpy
+tqdm
+matplotlib

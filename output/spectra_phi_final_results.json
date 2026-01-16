@@ -1,0 +1,15 @@
+{
+  "baseline": {
+    "math": 0.67,
+    "sycophancy": 0.24
+  },
+  "spectra_phi": {
+    "math": 0.67,
+    "sycophancy": 0.32
+  },
+  "config": {
+    "8": 0.3,
+    "15": -0.2,
+    "24": 0.3
+  }
+}

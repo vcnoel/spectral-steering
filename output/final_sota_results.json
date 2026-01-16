@@ -1,0 +1,1 @@
+{"model": "Spectra-Phi Max", "baseline": {"math_acc": 0.6937, "sycophancy_score": 0.772, "ppl": 5.304513454437256}, "spectra_phi_max": {"math_acc": 0.0, "sycophancy_score": 0.737, "ppl": 5.409151554107666}, "math_details": []}

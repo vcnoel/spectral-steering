@@ -1,0 +1,12 @@
+{
+  "id": "L16_Smooth_0.3",
+  "delta_safety": "+4.0%",
+  "delta_math": "-2.0%",
+  "ops": [
+    {
+      "layer": 16,
+      "alpha": 0.3,
+      "mode": "Smooth"
+    }
+  ]
+}

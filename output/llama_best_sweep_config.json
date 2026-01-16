@@ -1,0 +1,10 @@
+{
+  "id": "Llama_Layer_0_Smooth",
+  "ops": [
+    {
+      "layer": 0,
+      "alpha": 0.5,
+      "mode": "Smooth"
+    }
+  ]
+}

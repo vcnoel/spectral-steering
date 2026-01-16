@@ -1,0 +1,21 @@
+{
+  "config": {
+    "L15_Sharpen": -0.2,
+    "L16_24_Smooth": 0.3,
+    "L29_Kick": -0.2
+  },
+  "n_samples": {
+    "math": 300,
+    "sycophancy": 300
+  },
+  "baseline": {
+    "math": 0.63,
+    "sycophancy": 0.27,
+    "ppl": 5.307398319244385
+  },
+  "spectra_phi_max": {
+    "math": 0.6433333333333333,
+    "sycophancy": 0.17333333333333334,
+    "ppl": 5.643505096435547
+  }
+}

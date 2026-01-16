@@ -1,0 +1,7 @@
+{
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "n_math": 300,
+  "n_syc": 300,
+  "math_acc": 0.6066666666666667,
+  "syc_rate": 0.0
+}

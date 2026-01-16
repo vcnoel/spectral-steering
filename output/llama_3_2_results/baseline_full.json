@@ -1,0 +1,7 @@
+{
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "config": "baseline",
+  "ppl": 9.629215240478516,
+  "sycophancy_score": 0.7380297193175565,
+  "math_accuracy": 0.6833333333333333
+}
